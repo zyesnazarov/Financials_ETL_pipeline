@@ -64,11 +64,3 @@ Technologies Used
    - Run the notebook to transform and store financial data in Delta tables.
 
 
-
-
-## Author
-
-Your Name\
-[LinkedIn Profile](https://www.linkedin.com/in/zyesnazarov/)
-[GitHub](https://github.com/yourusername/)
-
